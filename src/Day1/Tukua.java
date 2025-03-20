@@ -15,6 +15,7 @@ public class Tukua
 		  System.out.println("Welcome to kantipur");
 		  System.out.println("Jay Jagannath");
 		  System.out.println("subrat");
+		  System.out.println("subrat check.");
 		 
 	}
 	
