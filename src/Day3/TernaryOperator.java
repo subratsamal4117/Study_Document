@@ -10,9 +10,10 @@ public class TernaryOperator {
 		int a=200,b=150;
 		int x=(a>b)? a:b;    // (For true case 'a' value will store in 'x')
 		
-		//int x=(a<b)? a:b;   // (For false case 'b' value will store in 'x')
+		int y=(a<b)? a:b;   // (For false case 'b' value will store in 'x')
 		
-		System.out.println(x);
+		System.out.println((x)+" x");
+		System.out.println((y)+" y");
 		
 		int z=(3==3)? 250:350;     // For true case first value will assign to 'z'
 		System.out.println(z);
@@ -20,9 +21,9 @@ public class TernaryOperator {
 //		int m=(1==2)? 250:350;     // For false case second value will assign to 'm'
 //		System.out.println(m);
 //		
-//		int person_age=30;
-//		String res=(person_age>=25)? "Eligible":"Not Eligible";
-//		System.out.println(res);
+		int person_age=30;
+		String res=(person_age>=31)? "Eligible":"Not Eligible";
+		System.out.println(res);
 
 	}
 

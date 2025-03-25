@@ -4,7 +4,7 @@ public class If_else_condition {
 
 	public static void main(String[] args) 
 	{
-		int person_age = 37;
+		int person_age = 18;
 		if (person_age<=21)        
 		{
 			System.out.println("Eligible for Vote");     //   If the condition is "true"
@@ -14,4 +14,4 @@ public class If_else_condition {
 			System.out.println("Not Eligible for Vote");     //   If the condition is "false"
 	    }
 	}
-}
+}	

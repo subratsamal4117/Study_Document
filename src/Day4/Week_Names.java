@@ -4,7 +4,7 @@ public class Week_Names {
 
 	public static void main(String[] args) 
 	{
-		int weekno=0;
+		int weekno=4;
 		
 		if (weekno==1)
 		{

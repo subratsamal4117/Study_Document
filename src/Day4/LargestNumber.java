@@ -4,7 +4,7 @@ public class LargestNumber {
 
 	public static void main(String[] args) 
 	{
-		int a=89, b=30, c=45;
+		int a=89, b=30, c=415;
 		
 		if (a>b && a>c)
 		{
